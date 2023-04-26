@@ -1,2 +1,2 @@
-image: mnroman/hello-world-nodejs
+image: mnroman/hola-web-nodejs
 replicaCount: 1
